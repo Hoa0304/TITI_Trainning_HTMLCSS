@@ -279,3 +279,29 @@ __What tools can I use to create a wireframe?__
 </details>
 
 </details>
+
+
+__25/05/2023__
+
+
+<details>
+<summary>Using Web Authoring Tools</summary>
+
+
+- Online Code Editors :
+
++ _Plunker_
++ _CodePen_
+
+</details>
+
+<details>
+<summary>Creating a Basic Webpage</summary>
+
+<img src="1-31.png">
+
+- __Do I have to indent certain lines of HTML code?__
+_Indenting lines of code is not required, but it helps improve the readability of the webpage. In Figure 1–31, Lines 4 and 5 are indented to clearly show the elements contained in the <head> and </head> tags. If the code included elements between the <body> and </body> tags, those lines could also be indented to make them easier to read. Using indents is a good web design practice._
+
+
+</details>
