@@ -8,6 +8,8 @@
 
 ### [Chapter 1. Introduction to the Internet and Web Design]()
 
+### [Chapter 2 : Building a Webpage Template with HTML 5]()
+
 <br></br>
 
 __23/05/2023__
@@ -303,5 +305,99 @@ __25/05/2023__
 - __Do I have to indent certain lines of HTML code?__
 _Indenting lines of code is not required, but it helps improve the readability of the webpage. In Figure 1–31, Lines 4 and 5 are indented to clearly show the elements contained in the <head> and </head> tags. If the code included elements between the <body> and </body> tags, those lines could also be indented to make them easier to read. Using indents is a good web design practice._
 
+
+</details>
+
+<br></br>
+
+__26/05/2023__
+
+### Chapter 2 : Building a Webpage Template with HTML 5
+
+<details>
+<summary>Project — Plan and Build a Website</summary>
+
+<details>
+<summary>Roadmap</summary>
+
+1. Create website folders to organize files.
+2. Create a template.
+3. Enter html 5 semantic elements in the document.
+4. Add comments and content to the document.
+5. Validate the document.
+6. Create and view the home page
+
+
+</details>
+
+
+</details>
+
+
+
+
+
+
+
+<details>
+<summary>Designing a Website</summary>
+
+- Forward Fitness Club Website Plan:
+1. _Purpose of the Website_ : To promote fitness services and gain new clients. The Forward Fitness Club mission: to facilitate a healthy lifestyle and help our clients meet their fitness and nutrition goals.
+
+2. _Target Audience_ : Forward Fitness Club customers are adults between the ages of 18 and 50 within the local community.
+
+3. _Multiplatform Display_ : Forward Fitness Club recognizes the growth in smartphone and tablet usage and wants a single website that provides an optimal viewing experience regardless of whether visitors are using a desktop laptop, tablet, or smartphone.
+
+4. _Wireframe and Site Map_ : The initial website will consist of five webpages arranged in a hierarchal structure with links to the home page on every page. Each webpage will include a header area, navigation area, main content area, and footer area.
+
+5. _Graphics_ : Forward Fitness Club wants to display its fitness equipment and logo to help with local branding. Photos of the facility, members, and staff will increase visual appeal.
+
+6. _Color_ : Forward Fitness Club wants to use black and white as the primary colors for a clean, sophisticated look.
+
+7. _Typography_ : To make the content easy to read, the website will use a serif font style for paragraphs, 
+lists, and other body content, while providing contrast by using a sans serif font style for 
+navigation links and headings.
+
+8. _Accessibility_ : Standard accessibility attributes, such as alternative text for graphics, will be used to address accessibility
+
+
+
+<details>
+<summary>Site Map</summary>
+
+- _Home page_: Introduces the fitness center and its mission statement
+
+- _About Us page_: Showcases the facility’s equipment and services
+- _Classes page_: Includes a schedule of available group training and fitness classes
+- _Nutrition page_: Provides nutrition tips and simple meal plans
+- _Contact Us page_: Provides a phone number, email address, physical address, and form for potential clients to request additional information about the fitness center’s services
+
+<img src="./img/chapter2/Site Map.png">
+
+</details>
+
+<details>
+<summary>Wireframe</summary>
+
+
+<img src="./img/chapter2/wireframe.png">
+
+__- What is the difference between a site map and a wireframe?__
+>A site map lists all the webpages in a website that a user can access. It clearly identifies the number of pages in the website and shows how each page is linked to other pages. You can create a site map as an outline in a word processing document or as an image using flowcharting or graphics software. 
+>In contrast, a wireframe shows the visual layout of the webpage to indicate where elements should appear such as the logo, search box, navigation bar, main content, and footer. You typically use graphics software to create a wireframe.
+
+</details>
+
+<details>
+<summary>File Management</summary>
+
+fitness -> main website folder     
+├───css     |
+├───images  |  -> website subfolders
+├───media   |
+└───scripts |
+
+</details>
 
 </details>
