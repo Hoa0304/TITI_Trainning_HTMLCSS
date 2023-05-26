@@ -401,3 +401,103 @@ fitness -> main website folder
 </details>
 
 </details>
+
+<details>
+<summary>Using HTML 5 Semantic Elements</summary>
+
+-  Indicates the header information on the webpage. Header content typically consists of a business name or logo and is commonly positioned immediately after the opening <body> tag.
+
+```
+<header>…</header>
+```
+
+<details>
+<summary>Header Element</summary>
+
+The header element structurally defines the header area of a webpage. 
+The header element starts with a <header> tag and ends with a </header> 
+tag. Content placed between these tags appears on the webpage as part of the 
+header element. Web designers often place a business name or logo within 
+the header element.
+
+</details>
+
+- Indicates the start and end of a navigation area within the webpage. The nav element contains hyperlinks to other 
+webpages within a website and is commonly positioned immediately after the closing </header> tag.
+
+```
+<nav>…</nav>
+```
+
+<details>
+<summary>Nav Element</summary>
+
+The nav element structurally defines the navigation area of a webpage. The 
+nav element starts with a <nav> tag and ends with a </nav> tag. The nav element 
+usually includes links to other pages within the website.
+
+</details>
+
+-  Indicates the start and end of the main content area of a webpage. Contains the primary content of the webpage. Only one main element can appear on a page.
+
+```
+<main>…</main>
+```
+
+<details>
+<summary>Main Element</summary>
+
+The main element structurally defines the main content area of a webpage. 
+The main element starts with a <main> tag and ends with a </main> tag. Each page 
+can have only one main element because its content should be unique to each page. 
+At the time this book was written, all current major browsers supported the main 
+element, with the exception of Internet Explorer 11 and earlier versions. While 
+Internet Explorer 11 will display content within the main element, it does not fully 
+support the element. For example, Internet Explorer 11 might not correctly display 
+formatting applied to the main element.
+
+</details>
+
+-  Indicates the start and end of the footer area of a webpage. Contains the footer content of the webpage.
+
+```
+<footer>…</footer>
+```
+
+<details>
+<summary>Footer Element</summary>
+
+The footer element structurally defines the bottom, or footer area, of a 
+webpage. The footer element starts with a <footer> tag and ends with a </footer> tag. 
+Common content found within a webpage footer includes copyright information, 
+contact information, social media links, and policy links.
+
+</details>
+
+-  Indicates the start and end of a section area of a webpage. Contains a specific grouping of content on the webpage.
+
+```
+<section>…</section>
+```
+
+-  Indicates the start and end of an article area of a webpage. Contains content such as forum or blog posts.
+
+```
+<article>…</article>
+```
+
+-  Indicates the start and end of an aside area of a webpage. Contains information about nearby content and is typically 
+displayed as a sidebar.
+
+```
+<aside>…</aside>
+```
+
+</details>
+
+<details>
+<summary>Creating a Webpage Template</summary>
+
+
+
+</details>
