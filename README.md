@@ -10,6 +10,8 @@
 
 ### [Chapter 2 : Building a Webpage Template with HTML 5]()
 
+### [Chapter 3 : Enhancing a Website with Images and Links]()
+
 <br></br>
 
 __23/05/2023__
@@ -495,9 +497,89 @@ displayed as a sidebar.
 
 </details>
 
+__29/05/2023__
+
 <details>
 <summary>Creating a Webpage Template</summary>
 
+1. To Create a Webpage Template Document
+2. To Add HTML 5 Semantic Elements to a Webpage Template
+3. To Add a Title to a Webpage Template
 
+
+<details>
+<summary>Comments</summary>
+
+```
+<!-- Place your comment here -->
+```
+
+```
+<!-- Student Name
+ File Name
+ Date
+-->
+```
+
+- To Add Comments to a Webpage Template
+
+> __Break Point__: If you want to take a break, this is a good place to do so. You can exit the text editor now. To resume at a later time, run your text editor, open the file called template.html, and continue following the steps from this location forward
+
+</details>
+
+
+<details>
+<summary>Heading Elements</summary>
+
+- __What is the difference between a head element, a header element, and a heading element, and how do I know when to use them?__
+> Recall from Chapter 1 that the head element is a required element for an HTML webpage and belongs near the top of the page. A head element is defined by <head> and </head> tags and contains information about the webpage, such as the webpage title and defined character set, not website content. A header element is a set of HTML 5 tags (<header> and </header>) that define the header area of a webpage and generally come after the starting <body> tag. Header elements contain webpage content, such as a business name or logo. A heading element, h1, h2, h3, h4, h5, or h6, defines headings within a webpage and is generally placed above other webpage content. Heading elements also contain webpage content. A heading element can appear in a header element, a main element, or other HTML elements. A heading level 1 element is defined by <h1> and </h1> tags.
+
+</details>
+
+<details>
+<summary>Webpage Content</summary>
+
+- To Add Content to the Header Section
+
+<img src="./img/Webpage.png">
+
+> Place the insertion point after the beginning <header> tag and press the enter key to insert a new Line 12.
+> On Line 12, press the tab key and then type <h1>Forward Fitness Club</h1> to add the business name to the webpage template
+
+</details>
+
+</details>
+
+<details>
+<summary>Using Symbol Entities</summary>
+
+- Common Symbol Entities
+
+<img src="./img/table.png">
+
+- __What is the purpose of the UTF-8 character set?__
+> Computers can read many types of character sets. The Unicode Consortium developed Unicode Transformation Format (UTF)-8 to create a standard character set. The UTF-8 has been widely accepted and is the preferred character set for several types of web programming languages, such as HTML, JavaScript, and XML.
+
+1. To Add Text and Nonbreaking Spaces to the Nav Section
+2. To Add Content and a Symbol to the Footer Section
+
+</details>
+
+<details>
+<summary>Validating HTML Documents</summary>
+
+<details>
+<summary>To Validate the Webpage Template</summary>
+
+
+
+</details>
+
+<details>
+<summary>To Validate an HTML Document with Errors</summary>
+
+
+
+</details>
 
 </details>
