@@ -541,7 +541,7 @@ __29/05/2023__
 
 - To Add Content to the Header Section
 
-<img src="./img/Webpage.png">
+<img src="./img/chapter2/Webpage.png">
 
 > Place the insertion point after the beginning <header> tag and press the enter key to insert a new Line 12.
 > On Line 12, press the tab key and then type <h1>Forward Fitness Club</h1> to add the business name to the webpage template
@@ -555,7 +555,7 @@ __29/05/2023__
 
 - Common Symbol Entities
 
-<img src="./img/table.png">
+<img src="./img/chapter2/table.png">
 
 - __What is the purpose of the UTF-8 character set?__
 > Computers can read many types of character sets. The Unicode Consortium developed Unicode Transformation Format (UTF)-8 to create a standard character set. The UTF-8 has been widely accepted and is the preferred character set for several types of web programming languages, such as HTML, JavaScript, and XML.
