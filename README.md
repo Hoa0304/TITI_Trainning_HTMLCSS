@@ -21,20 +21,20 @@ __23/05/2023__
 <details>
 <summary>Objectives</summary>
 
-• Define the Internet and associated key terms
-• Recognize Internet protocols
-• Discuss web browsers and identify their main features
-• Describe the types and purposes of websites
-• Plan a website for a target audience
-• Define a wireframe and a site map
-• Explain how websites use graphics,navigation tools, typography, and color
-• Design for accessibility
-• Design for multiplatform display
-• Define Hypertext Markup Language (HTML) and HTML elements
-• Recognize HTML versions and web programming languages
-• Identify web authoring tools
-• Download and use a web authoring tool
-• Create and view a basic HTML webpage
+- Define the Internet and associated key terms
+- Recognize Internet protocols
+- Discuss web browsers and identify their main features
+- Describe the types and purposes of websites
+- Plan a website for a target audience
+- Define a wireframe and a site map
+- Explain how websites use graphics,navigation tools, typography, and color
+- Design for accessibility
+- Design for multiplatform display
+- Define Hypertext Markup Language (HTML) and HTML elements
+- Recognize HTML versions and web programming languages
+- Identify web authoring tools
+- Download and use a web authoring tool
+- Create and view a basic HTML webpage
 
 </details>
 
