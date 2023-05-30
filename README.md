@@ -565,6 +565,8 @@ __29/05/2023__
 
 </details>
 
+__30/05/2023__
+
 <details>
 <summary>Validating HTML Documents</summary>
 
@@ -572,13 +574,121 @@ __29/05/2023__
 <summary>To Validate the Webpage Template</summary>
 
 
+#### Before you use the webpage template to create the necessary webpages for the fitness website, run the template through the W3C validator to check the document for errors.
+
+- __Why?__
+
+>  If the document has any errors, validating gives you a chance to identify and correct them before using the template to create a webpage.
+
+<details>
+<summary>The following steps validate an HTML document</summary>
+
+_1_
+
+1. Open your browser and type https://validator.w3.org/ in the address bar to display the W3C Markup Validation Service page.
+2. Tap or click the Validate by File Upload tab to display the Validate by File Upload information.
+3. Tap or click the Choose File button to display the Open dialog box.
+4. Navigate to your fitness folder to find the template.html file.
+
+- I do not see a Choose File button, but I do have a Browse button. Should I select the Browse button instead? 
+> Yes. The button names and other options may vary slightly depending on your browser.
+
+_2_
+
+1. Tap or click the template.html document to select it.
+2. Tap or click the Open button to upload the selected file to the W3C validator.
+3. Tap or click the Check button to send the document through the validator and display the validation results page
+
+- My results show errors. How do I correct them?
+> Scroll down the page to display the errors section. Review the errors listed below the validation output. Any line number that contains an error is shown in this section.
+
+
+</details>
 
 </details>
 
 <details>
 <summary>To Validate an HTML Document with Errors</summary>
 
+<details>
+<summary> The following steps insert an error in the template document and then validate the document with the W3C validator.</summary>
 
+_1_
+
+- Return to the template document in your text editor and delete html on Line 1 to remove “html” from the DOCTYPE declaration.
+- Save your changes and then return to the W3C Markup Validation Service page in your browser to display the W3C validator.
+- If necessary, tap or click the Validate by File Upload tab to display the Validate by File Upload information.
+- Tap or click the Choose File button to display the Open dialog box.
+- Navigate to the fitness folder,select the template.html file, and then tap or click the Open button to upload the file.
+- Tap or click the Check button to run the template file through the validator.
+- Scroll down to display the error messages 
+
+_2_
+
+- Scroll down to display the validation errors.
+- Review the errors and note the line numbers of the errors in the document
+
+_3_
+
+- Return to your text editor and type html after the <!DOCTYPE declaration on Line 1 to correct the error.
+- Save your changes and validate the document again to confirm it does not contain any errors.
+
+</details>
+
+</details>
+
+</details>
+
+<details>
+<summary>Creating a Home Page Using a Webpage Template</summary>
+
+
+
+<details>
+<summary>To Create a Home Page Using a Webpage Template and Add Content</summary>
+
+#### 1
+
+- Tap or click File on the menu bar and then tap or click Save As to display the Save As dialog box.
+- In the File name text box, type index to name the file.
+- Tap or click the Save button to save the index file in the fitness folder.
+- Place your insertion point after the beginning <main> tag and press the enter key twice to insert two new lines, in this case,Lines 26 and 27.
+- 	On Line 27, press the tab key and then type <p>Welcome to Forward Fitness Club. Our mission is to help our clients meet their fitness and nutrition goals. </p> to add paragraph tags and content to the page
+
+<img src="./img/chapter2/Home Page.png">
+
+#### 2
+
+- Press the enter key two times to insert two new lines and then type <p>If you have struggled with getting healthy and need the motivation and  resources to make a healthy lifestyle change, contact us today. Our facility includes state-of-the-art equipment, convenient group training classes, and nutrition tips and information to keep you healthy.</p> on Line 29 to add a second paragraph to the page.
+- Press the enter key two times to insert two new lines and then type <p>We provide a FREE one-week membership so you can experience the benefits of our equipment and facility. This one-week trial gives you complete access to our equipment, training classes, and nutrition 
+planning. Contact us today to start your free trial!</p> on Line 31 to add a third paragraph to the page
+
+
+<img src="./img/chapter2/Figure 2–31.png">
+
+#### 3
+
+- Press the enter key to insert a new blank line above the ending </main> tag.
+- Check the spelling of your document and save your changes.
+
+</details>
+
+
+<details>
+<summary>To Display a Home Page in the Default Browser</summary>
+
+#### 1
+
+- Run File Explorer and navigate to the fitness folder to display the index	.html page.
+- Double-tap or double-click the index.html file to display the page in the default browser on your computer
+
+
+#### 2
+
+- If spelling errors appear in the page, run the spelling checker or edit the text in your HTML text editor and then save your changes.
+- Refresh the browser by tapping or clicking the Refresh button on the address bar.
+- Close the browser.
+- Exit the HTML text editor.
 
 </details>
 
