@@ -693,3 +693,113 @@ planning. Contact us today to start your free trial!</p> on Line 31 to add a thi
 </details>
 
 </details>
+
+
+
+<br></br>
+
+__31/05/2023__
+
+### Chapter 3 : Enhancing a Website with Images and Links
+
+
+<details>
+<summary>IntroduProject — Add Images and Links to a Websitection</summary>
+
+- Roadmap
+
+1. Add images to a template and to webpages.
+2. Add div elements to a template and to webpages.
+3. Add hyperlinks to a template and to webpages.
+4. Add lists to a webpage.
+5. Embed a map on a webpage.
+6. View the website in a browser and test the webpage links.
+7. Validate the new pages.
+
+
+
+</details>
+
+
+<details>
+<summary>Adding Images to a Website</summary>
+
+1. Image File Formats : 
+
+```
+- GIF : 
++ Pros : Small file size; supports transparency and animation
++ Cons : Limited to 256 colors
++ Use for : Line drawings and animations
+```
+
+```
+- PNG :
++ Pros : Small file size; supports transparency and more than a million colors
++ Cons : Does not support animation
++ Use for : Images that are not digital photos
+```
+
+```
+- JPG :
++ Pros :  Supports more than a million colors
++ Cons : Larger file size
++ Use for : Digital photos
+```
+
+```
+- SVG :
++ Pros : Flexible; scalable; no files needed because graphics are created with code
++ Cons : Not supported by older browsers and not all modern browsers support all SVG features
++ Use for : Shapes, lines, text, and gradients
+```
+
+2. Image Dimensions and File Size
+
+3. Image File Names
+
+4. Image Tag and Its Attributes 
+
+- src : Identifies the file name of the image to display
+
+- alt : Specifies alternate text to display when an image is being loaded Especially useful for screen readers, which translate information on a computer screen into audio output Should briefly describe the purpose of the image in 125 characters or less
+
+- height : Defines the height of the image in pixels, which improves loading time
+
+- width : Defines the width of the image in pixels, which improves loading time
+
+<details>
+<summary>To Copy Files into the Images Folder</summary>
+
+#### 1
+
+- If necessary, insert the drive containing the Data Files into an available port.
+- Use File Explorer (Windows) or Finder (Mac) to navigate to the storage location of the Data Files.
+- Double-tap or double-click the chapter03 folder, double-tap or double-click the chapter folder, and then double-tap or double-click the images folder to open the images folder and display the image files.
+- Tap or click the first file in the list, such as the forward-fitness-logo.png file, hold down the shift key, and then tap or click the last file in the list, such as the personal-trainer.jpg file, to select the images needed for the site
+
+#### 2
+
+- Press and hold or right-click the selected files, tap or click Copy on the shortcut menu, and then navigate to the images folder in your fitness folder to prepare to copy the files to your images folder.
+- Press and hold or right-click a blank area in the open window, and then tap or click Paste on to copy the files into the images folder.
+- Verify that the folder now contains four images
+
+
+</details>
+
+
+_To Add an Image to a Website Template_
+
+_To Add an Image to the Home Page_
+
+</details>
+
+
+<details>
+<summary>Exploring Div Elements</summary>
+
+- Div Element
+- Div Attributes
+
+
+</details>
