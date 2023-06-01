@@ -838,7 +838,7 @@ time, run your text editor, open the file called index.html, and continue follow
 <details>
 <summary>Adding Lists</summary>
 
--  To mark an unordered list, insert the <ul> tag at the start of the list and the </ul> tag at the end of the list. Mark each item in an unordered list with a set of list item tags (<li> and </li>).
+-  To mark an unordered list, insert the ```<ul>``` tag at the start of the list and the ```</ul>``` tag at the end of the list. Mark each item in an unordered list with a set of list item tags (```<li>``` and ```</li>```).
 
 ```html
 <ul>
@@ -848,7 +848,7 @@ time, run your text editor, open the file called index.html, and continue follow
 ```
 => unordered list
 
--  To mark an ordered list, insert the <ol> and </ol> tags at the start and end of the list. As with unordered lists, you mark each item in an ordered list with a set of <li> and </li> tags.
+-  To mark an ordered list, insert the ```<ol>``` and ```</ol>``` tags at the start and end of the list. As with unordered lists, you mark each item in an ordered list with a set of ```<li>``` and ```</li>``` tags.
 
 ```html
 <ol>
@@ -860,7 +860,7 @@ time, run your text editor, open the file called index.html, and continue follow
 
 <img src="./img/chapter3/list.png">
 
-- Define a description list between a pair of <dl> and </dl> tags. Mark each term within a pair of <dt> and </dt> tags. Mark each description or definition between a pair of <dd> and </dd> tags.
+- Define a description list between a pair of ```<dl>``` and ```</dl>``` tags. Mark each term within a pair of ```<dt>``` and ```</dt>``` tags. Mark each description or definition between a pair of ```<dd>``` and ```</dd>``` tags.
 
 ```html
 <dl>
