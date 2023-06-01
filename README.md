@@ -838,12 +838,12 @@ time, run your text editor, open the file called index.html, and continue follow
 <details>
 <summary>Adding Lists</summary>
 
-
+```html
 &lt;ul&gt;
     &lt;li&gt;First item&lt;/li&gt;
     &lt;li&gt;Second item&lt;/li&gt;
 &lt;/ul&gt;
-
+```
 
 
 </details>
