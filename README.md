@@ -794,12 +794,55 @@ _To Add an Image to the Home Page_
 
 </details>
 
-
+__01/06/2023__
 <details>
 <summary>Exploring Div Elements</summary>
 
-- Div Element
-- Div Attributes
+- Div Element :  div elements within the main element to further divide the primary content area into separate sections, such as the introduction, a long quotation, a list of “See Also” links, and a conclusion.
+- Div Attributes : The purpose of the new div element is to contain all of the other webpage 
+elements, including header, nav, main, and footer.
 
+<img src="./img/chapter3/div.png">
+
+- __Why is “container” the value of the id attribute?__
+
+> Because this div element will contain all of the webpage elements, it is commonly referred to as the container or the wrapper because it contains or wraps around all of the webpage elements, similar to how a fence wraps around a physical piece of property to contain things on the property.
+
+1. To Add Div Elements to a Website Template
+
+2. To Add a Div Element to the Home Page
+
+- __Break Point:__ If you want to take a break, this is a good place to do so. You can exit the text editor now. To resume at a later 
+time, run your text editor, open the file called index.html, and continue following the steps from this location forward.
+
+</details>
+
+<details>
+<summary>Adding Links to a Webpage</summary>
+
+- Anchor Element
+- Relative Links
+- Absolute Links
+- Bookmarks
+- Image Links
+- Email Links
+- Telephone Links
+
+1. To Add Relative Links in a Website Template
+2. To Add an Email Link in a Website Template
+3. To Add Relative Links in the Home Page
+4. To Add an Email Link in the Home Page
+
+</details>
+
+<details>
+<summary>Adding Lists</summary>
+
+```
+&lt;ul&gt;
+    &lt;li&gt;First item&lt;/li&gt;
+    &lt;li&gt;Second item&lt;/li&gt;
+&lt;/ul&gt;
+```
 
 </details>
