@@ -838,12 +838,58 @@ time, run your text editor, open the file called index.html, and continue follow
 <details>
 <summary>Adding Lists</summary>
 
+-  To mark an unordered list, insert the <ul> tag at the start of the list and the </ul> tag at the end of the list. Mark each item in an unordered list with a set of list item tags (<li> and </li>).
+
 ```html
 <ul>
 <li>First item</li>
 <li>Second item</li>
 </ul>
 ```
+=> unordered list
 
+-  To mark an ordered list, insert the <ol> and </ol> tags at the start and end of the list. As with unordered lists, you mark each item in an ordered list with a set of <li> and </li> tags.
+
+```html
+<ol>
+<li>First item</li>
+<li>Second item</li>
+</ol>
+```
+=> ordered list
+
+<img src="./img/chapter3/list.png">
+
+- Define a description list between a pair of <dl> and </dl> tags. Mark each term within a pair of <dt> and </dt> tags. Mark each description or definition between a pair of <dd> and </dd> tags.
+
+```html
+<dl>
+<dt>First term</dt>
+<dd>First definition</dd>
+<dt>Second term</dt>
+<dd>Second definition – part 1</dd>
+<dd>Second definition – part 2</dd>
+</dl>
+```
+=> description list
+
+1. To Create the About Us Webpage and Add Content
+2. To Add Unordered Lists to the About Us Webpage
+3. To Add a Description List and Absolute Link to the About Us Webpage
+4. To Save the About Us Webpage and View It in a Browser
+5. To Create the Contact Us Webpage and Add a Heading and Links
+
+
+
+<details>
+<summary>Embedding a Map</summary>
+
+1. To Embed a Map within a Webpage
+2. To Preview a Website in a Browser and Test Page Links
+3. To Validate the About Us and Contact Us Pages
+
+
+
+</details>
 
 </details>
