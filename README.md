@@ -838,13 +838,12 @@ time, run your text editor, open the file called index.html, and continue follow
 <details>
 <summary>Adding Lists</summary>
 
-```
+
 &lt;ul&gt;
     &lt;li&gt;First item&lt;/li&gt;
     &lt;li&gt;Second item&lt;/li&gt;
 &lt;/ul&gt;
-```
 
-&lt;p&gt;Đây là một đoạn văn bản được bao bọc bởi thẻ &lt;p&gt; của HTML.&lt;/p&gt;
+
 
 </details>
