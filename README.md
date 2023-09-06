@@ -3,7 +3,9 @@
 ## Frontend training plan
 ## HTML CSS
 
+
 <br></br>
+
 ## Table of contents
 
 ### [Chapter 1. Introduction to the Internet and Web Design]()
@@ -11,6 +13,10 @@
 ### [Chapter 2 : Building a Webpage Template with HTML 5]()
 
 ### [Chapter 3 : Enhancing a Website with Images and Links]()
+
+### [Chapter 4 : Designing Webpages with CSS]()
+
+### [Chapter 5 : Responsive Design Part 1: Designing for Mobile Devices]()
 
 <br></br>
 
@@ -891,5 +897,151 @@ time, run your text editor, open the file called index.html, and continue follow
 
 
 </details>
+
+</details>
+
+
+<br></br>
+
+__06/09/2023__
+
+### Chapter 4 : Designing Webpages with CSS
+
+<details>
+<summary>Project — Format Webpages with CSS </summary>
+
+<details>
+<summary>Roadmap </summary>
+
+1. create a css file.
+2. link HTML pages to a css file.
+3. create style rules.
+4. add comments to the CSS file.
+5. validate the css file.
+
+</details>
+
+</details>
+
+
+<details>
+<summary>Using Cascading Style Sheets </summary>
+
+1. Inline Styles
+
+```html
+<h1 style="font-color: navy">Cam Hoa</h1>
+```
+
+2. Embedded Style Sheets
+
+```html
+<head>
+    <title>My Website</title>
+    <style>
+        body {
+            background-color : red;
+        }
+    </style>
+</head>
+```
+
+3. External Style Sheets 
+> Written in CSS file
+
+```css
+body {
+            background-color : red;
+        }
+```
+
+4. Style Sheet Precedence
+
+</details>
+
+
+<details>
+<summary>Understanding Inline Elements and Block Elements </summary>
+
+CSS Box Model -> describes these boxes of content on a webpage.   
+├───margin     |  -> help the 2 boxes are far apart,Doesn't make the element thicker
+├───padding    |  -> extra padding
+├───border     |  -> Without considering the width, the default border is 2px
+├───border-style    |  -> Designates the style of a border
+├───border-width    |  -> Designates the width of a border
+├───border-color    |  -> Designates the border color
+|───border-radius   |  -> Rounds the corners of a block element’s border
+└───box-shadow      |  -> Adds a shadow to a block element’s border
+
+</details>
+
+
+<details>
+<summary>Creating an External Style Sheet </summary>
+
+Selectors
+> id use #
+> class use .
+
+</details>
+
+
+
+<details>
+<summary>Creating Style Rules for Structural Elements</summary>
+
+1. Use a List for Navigation Links
+2. CSS List Properties
+3. Making Responsive Images
+
+</details>
+
+- Creating Style Rules for ID Selectors
+
+- Creating Class Attributes
+
+<details>
+<summary>CSS Reset</summary>
+<img src="./img/chapter4/41.png">
+<img src="./img/chapter4/42.png">
+
+> difference between using box-sizing
+
+</details>
+
+<br></br>
+
+### Chapter 5 : Responsive Design Part 1: Designing for Mobile Devices
+
+<details>
+<summary>Project — Redesign a Website for Mobile Devices</summary>
+
+- Roadmap : 
+
+```
+1. add a meta viewport element to each HTML document.
+2. create a sticky header.
+3. add custom fonts.
+4. style pages for a mobile viewport.
+5. style the map for a mobile viewport.
+```
+
+</details>
+
+
+<details>
+<summary>Exploring Responsive Design</summary>
+
+<img src="./img/chapter5/52.png">
+
+1. Fluid layout
+2. Responsive or flexible images
+3. Media queries
+
+</details>
+
+<details>
+<summary>Designing for Mobile Devices</summary>
+<img src="./img/chapter5/53.png">
 
 </details>
